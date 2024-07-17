@@ -1,4 +1,4 @@
-package pct1;
+package pacoteExemplos.singletonPack;
 
 
 
